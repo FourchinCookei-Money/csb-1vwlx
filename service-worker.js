@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://fourchincookei-money.github.io/csb-1vwlx/precache-manifest.ed8d3621a6626858ba393fcc9e716957.js"
+  "https://fourchincookei-money.github.io/csb-1vwlx/precache-manifest.ff58a7478798e7d2bb56d2260d936d7c.js"
 );
 
 workbox.clientsClaim();
